@@ -7,4 +7,5 @@
 
 ### MAIN & VIEW CONTROLLER
 
-![Uploading Screenshot 2022-10-19 at 9.39.11 PM.png…]()
+
+<img width="1440" alt="Screenshot 2022-10-19 at 9 44 14 PM" src="https://user-images.githubusercontent.com/69411783/196746981-db02722f-698d-4d70-9be4-74488f8a4df7.png">
